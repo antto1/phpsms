@@ -19,9 +19,7 @@
   "autoload": {
     "psr-4": {
       "Toplan\\PhpSms\\": [
-        "src/phpsms/",
-        "src/phpsms/agents/",
-        "src/phpsms/interfaces/"
+        "src/phpsms/"
       ],
       "Toplan\\PhpSms\\Facades\\": [
         "src/phpsms/facades/"
